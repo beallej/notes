@@ -18,6 +18,7 @@
     
     
 ## Inception Deck Notes
+* Yo here is the [inception deck notes](https://agilewarrior.files.wordpress.com/2010/11/blank-inception-deck.pptx)
 * Identify why (the consultants) we are here
 * Create elevator pitch for project
 * _Create a product box whatever that is?_
