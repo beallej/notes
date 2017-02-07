@@ -32,7 +32,8 @@
 
     
     
-## Inception Steps    
+## Inception Steps
+
 ### 1. Identify
 * Identify goals
     * capture all of them, group them
