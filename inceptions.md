@@ -16,7 +16,7 @@
     * Restate your understanding of what a client explains using your own words/visuals
     
     
-##Inception Deck Notes
+## Inception Deck Notes
 * Identify why (the consultants) we are here
 * Create elevator pitch for project
 * _Create a product box whatever that is?_
@@ -31,7 +31,7 @@
 
     
     
-##Inception Steps    
+## Inception Steps    
 ### 1. Identify
 * Identify goals
     * capture all of them, group them
